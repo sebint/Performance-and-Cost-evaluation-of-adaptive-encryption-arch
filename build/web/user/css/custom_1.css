@@ -1,0 +1,124 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 18, 2015, 11:36:45 AM
+    Author     : ZionZ
+*/
+
+.page-header-admin{
+    padding-bottom: 6px;
+    margin: 10px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+.page-header-admin h1{
+    font-size: 26px;
+    font-weight: 200 !important;
+    letter-spacing: -1px;
+    padding: 0;
+    /* font-variant: small-caps; */
+}
+.page-header-admin h1 small{
+     font-size: 14px;
+}
+.core-box {
+    margin-bottom: 20px;
+    display: inline-block;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EEEEEE;
+}
+.core-box .heading {
+    margin-bottom: 15px;
+}
+.core-box .heading h2 {
+    line-height: 55px !important;
+    margin: 0;
+    padding-left: 65px;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.core-box .heading .circle-icon {
+    float: left;
+}
+.core-box .content {
+    color: #747474 !important;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.circle-icon.circle-green {
+    background-color: #3D9400;
+    border-color: #327B00;
+    color: #FFFFFF;
+}
+.circle-icon.circle-teal {
+    background-color: #569099;
+    border-color: #4D8189;
+    color: #FFFFFF;
+}
+.circle-icon.circle-bricky {
+    background-color: #C83A2A;
+    border-color: #b33426;
+    color: #ffffff;
+}
+.circle-icon {
+    background-color: #333333;
+    border-radius: 75px 75px 75px 75px;
+    color: #FFFFFF;
+    margin-top: 2px;
+    text-align: center;
+    height: 55px;
+    line-height: 56px;
+    width: 55px;
+    display: inline-block;
+    font-size: 24px !important;
+}
+.core-box .view-more:hover {
+    text-decoration: none;
+}
+.core-box .view-more {
+    float: right;
+}
+.panel-heading {
+    background-color: #F5F4F9;
+    background-image: linear-gradient(to bottom, #F5F4F9 0%, #ECEAF3 100%);
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #CDCDCD;
+    border-radius: 6px 6px 0 0;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    height: 36px;
+    padding-left: 40px;
+    position: relative;
+}
+.panel-tools {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+.panel-scroll {
+    position: relative;
+    margin: 10px;
+    padding: 0px;
+    width: auto;
+    height: 400px;
+    overflow: hidden;
+}
+.panel-heading > [class^="fa-"], .panel-heading > [class*=" fa-"], .panel-heading > [class^="fa-"], .panel-heading > [class*=" fa-"] {
+    border-right: 1px solid #CDCDCD;
+    box-shadow: 1px 0 0 0 #FFFFFF;
+    opacity: 0.7;
+    padding: 12px 10px 8px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 36px;
+}
+.panel-default {
+    border-color: #ddd !important;
+}
+select#mm {
+    height: 27px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}

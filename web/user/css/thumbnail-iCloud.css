@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 11, 2015, 10:30:02 AM
+    Author     : ZionZ
+*/
+a.thumbnail_data:hover{
+    background-color: #FBFBFB;
+    text-decoration: none !important;
+}
+.thumbnail_big{
+    font-size: 45px !important;
+}
+.thumbnail_h5{
+    margin-top: 6px;
+}
+.thumbnail_hr{
+    margin-top: 10px !important;
+}
+.thumbnail_span{
+    font-size: 16px;
+}
+.thumbnail_p{
+    font-size: 10px;
+}
+.thumbnail_data {
+    width: 15%;
+    margin: 0 1em 1em 0;
+    padding: 1em;
+    float: left;
+    border: 1px solid #E6E9ED;
+    display: block;
+    text-align: center;
+    border-radius: 4px;
+}
+#theThumbnails {
+    margin-top: inherit !important;
+}
+.theThumbnail_file{
+    margin-top: inherit !important;
+}
+.btn.btn-app {
+    position: relative;
+    padding: 15px 5px;
+    margin: 0 1em 1em 0 !important;
+    min-width: 80px;
+    height: inherit !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    text-align: center;
+    color: #666;
+    border: 1px solid #E6E9ED !important;
+    background-color: inherit !important;
+    font-size: 12px;
+}
+.btn .btn-data{
+    width: 2px !important;
+}
+
